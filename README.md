@@ -26,7 +26,7 @@ This project contains:
 
 ## Behavior
 
-* <img src = "./docs/loc1.png">
+ <img src = "./docs/loc1.png">
 
 
 
