@@ -22,7 +22,7 @@ This project contains:
 
 `roslaunch localization amcl.launch`
 
-- To make the robot localize itself, you need to tele-operate the robot moving from starting position (bottom-right corner) to another end of the house (top-right corner).
+- To make the robot localize itself, you need to tele-operate the robot to move from starting position (bottom-right corner) to another end of the house (top-right corner).
 
 ## Behavior
 
