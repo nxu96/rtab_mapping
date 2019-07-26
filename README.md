@@ -30,3 +30,11 @@ This project contains:
 
  <img src = "./docs/p1.png">
 
+
+
+## Complete Map
+
+Check the link below for a complete map database  `rtabmap.db`
+
+https://drive.google.com/file/d/1H7ilPpPP5pIrL6AC4G7XPBvyUIotqjqL/view?usp=sharing
+
